@@ -1,3 +1,6 @@
 Ficheiro 2 criado na maquina - ramo_01 - V1
 
 Atualizado no GITHUB - V3.
+*************
+
+Versão alterada na maquina - V6
